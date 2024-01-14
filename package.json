@@ -1,0 +1,21 @@
+{
+  "name": "Dark-theme",
+  "displayName": "Borz Coding",
+  "description": "self idea",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Borz Coding",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Borz Coding-color-theme.json"
+      }
+    ]
+  }
+}
